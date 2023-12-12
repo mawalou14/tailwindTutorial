@@ -2,6 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.radio-blue {
+.radial-blue {
     background: radial-gradient(lightyellow, skyblue);
 }
