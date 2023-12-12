@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mawalou14/tailwindTutorial/issues"
   },
-  "homepage": "https://github.com/mawalou14/tailwindTutorial#readme"
+  "homepage": "https://github.com/mawalou14/tailwindTutorial#readme",
+  "devDependencies": {
+    "prettier-plugin-tailwindcss": "^0.5.9"
+  }
 }
