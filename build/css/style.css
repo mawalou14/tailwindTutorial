@@ -540,12 +540,24 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.grid {
+  display: grid;
+}
+
 .h-52 {
   height: 13rem;
 }
 
+.min-h-screen {
+  min-height: 100vh;
+}
+
 .w-52 {
   width: 13rem;
+}
+
+.place-content-center {
+  place-content: center;
 }
 
 .rounded-full {
