@@ -605,12 +605,24 @@ video {
   width: 13rem;
 }
 
+.w-1 {
+  width: 0.25rem;
+}
+
+.w-1\/2 {
+  width: 50%;
+}
+
 .max-w-4xl {
   max-width: 56rem;
 }
 
 .max-w-md {
   max-width: 28rem;
+}
+
+.flex-col-reverse {
+  flex-direction: column-reverse;
 }
 
 .place-content-center {
